@@ -1,4 +1,4 @@
-package com.INTERFACES.INTERFACES;
+package primerTrimestre;
 
 import java.awt.EventQueue;
 

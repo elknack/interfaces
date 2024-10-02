@@ -1,4 +1,4 @@
-package com.INTERFACES.INTERFACES;
+package primerTrimestre;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
